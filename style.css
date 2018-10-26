@@ -1,4 +1,51 @@
-p
+*
 {
-	color: red;
+  color: #505050;
+}
+td
+{
+  text-align: center;
+}
+h1, .collapsible
+{
+  font-family: 'Abel', sans-serif;
+}
+ul, p, tr
+{
+  font-family: 'Assistant', sans-serif;
+}
+#name
+{
+  font-size: 50px;
+}
+.header
+{
+  color: #005580;
+}
+table, th, td 
+{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+#jobTitleDiv, #experienceDiv, #educationDiv, #name
+{
+  border-bottom: 2px solid #505050;
+}
+
+
+.collapsible
+{
+  background-color: white;
+  color: #005580;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 35px;
+}
+.active, .collapsible:hover
+{
+  background-color: #ccc;
 }
