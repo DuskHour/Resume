@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css?family=Abel|Assistant" rel="stylesheet">
+</head>
+<body>
+  <script src="javascript.js"></script>
+  <h1 class="header" id="name">Duc Nguyen</h1>
+  <img src="Prep.jpg" alt="A fancy photo of Duc Nguyen" width="240" height="300">
+  <button class="collapsible">Job Title</button>
+  <div class="content">
+    <div id="jobTitleDiv">
+      <h1 class="header">Software Engineer</h1>
+      <p>
+A professional software engineer who develops and implements gameplay by utilizing game 
+engines, physics engines and graphic tools. Rapidly learns and understands Application
+Programming Interfaces of various tools by updating previous programming knowledge with
+newly innovated technologies. Capable of programming and implementing complex
+algorithms and data structures that are reusable in an already existing framework. Has a deep
+understanding of Linear Algebra, Trigonometry, and Geometry when developing three&#45dimensional
+games. Strong emphasis on source control and software quality assurance
+regarding project management. Cooperates and communicates effectively with team
+members, establishing respectful and charitable relationships in the work environment.
+      </p>
+      <h3 class="header">Attributes & Abilities</h3>
+      <ul id="AA">
+        <li>Fair</li>
+        <li>Diciplined</li>
+        <li>Methodical</li>
+        <li>Constructive</li>
+        <li>Systematic</li>
+        <li>Open&#45minded</li>       
+        <li>Inquisitive</li>
+        <li>Communicative</li>
+        <li>Teamwork&#45oriented</li>
+        <li>Flexible</li>
+        <li>Adaptable</li>
+        <li>Organized</li>
+        <li>Instructional</li>
+        <li>Positive Attitude</li>
+        <li>Self&#45improving</li>
+        <li>Passionate</li>
+      </ul>
+    </div>
+  </div>
+  <button class="collapsible">Experience</button>
+  <div class="content">
+    <div id="experienceDiv">
+      <h4>PROJECT COORDINATOR | UNIVERSITY ENTERPRISE CORPORATION | JANUARY 9TH &#45 NOW </h4>
+      <ul>
+        <li>Organizes game development projects across different teams with various backgrounds</li>
+        <li>Handles and completes milestones in a timely and orderly manner</li>
+        <li>Situates project plans to supervisors and then relays those instructions to different college faculty</li>
+        <li>Rapidly teaches and trains students how to familiarize themselves with the game development process during class lectures, labs, office hours and appointments</li>
+        <li>Manages source control and regularly contacts lead developers by providing aid with their code</li>
+      </ul>
+      <h4>INSTRUCTIONAL STUDENT ASSISTANT | CSUSB COMPUTER SCIENCE & ENGINEERING | SEPTEMBER 24TH, 2016 &#45 JUNE 15TH, 2017</h4>
+      <ul>
+        <li>Taught and graded students’ works with constructive feedback</li>
+        <li>Had to have a complete understanding of the Unity Game Engine using C#</li>
+        <li>Tutored students in a classroom setting explaining how to script with the Unity3D API</li>
+        <li>Prepared lessons and lectures beforehand to ensure teaching quality was at its maximum</li>
+      </ul>
+      <h4>INDEPENDENT CONTRACTOR | LEONARD FINANCIAL GROUP LLC | FEBRUARY 16TH, 2016 &#45 MARCH 8TH, 2016</h4>
+      <ul>
+        <li>Managed and neatly organized confidential tax files with various clients</li>
+        <li>Quickly had to develop efficient methods for stapling and filing tax forms during tax season</li>
+        <li>Had to be unafraid to ask questions in a new environment in a relatively short period of time</li>
+      </ul>
+      <h4>HEAD OF STAFF | DROOBLEDORE LLC | FEBRUARY 14TH, 2014 &#45 JANUARY 14TH, 2016</h4>
+      <ul>
+        <li>Interviewed, hired, trained and promoted staff members with deliberate intentions and reasons</li>
+        <li>Regularly attended and hosted team meetings for up&#45to&#45date quality assurance memos</li>
+        <li>Gave personal interviews to co&#45workers to gain an understanding of the entire teams’ motivations and morale</li>
+        <li>Enhanced team morale by organizing and rewarding them with recognition and exciting events</li>
+        <li>Prioritized a strong work ethic to help staff perform at their best as a team</li>
+      </ul>
+    </div>
+  </div>
+  <button class="collapsible">Education</button>
+  <div class="content">
+    <div id="educationDiv">
+      <h4>COMPUTER SYSTEMS (GAME DEVELOPMENT) | JUNE 2018 | CALIFORNIA STATE UNIVERSITY SAN BERNARDINO</h4>
+      <ul>
+        <li>Major: Computer Systems (Game Development Option)</li>
+        <li>Minor: Philosophy</li>
+        <li>Related activities: President of the Game Development Club (Fall 2016 &#45 Spring 2018)</li>
+      </ul>
+    </div>
+  </div>
+  <button class="collapsible">Expertise</button>
+  <div class="content">
+    <div id="expertiseDiv">
+      <h2 class="header">Technical Expertise</h2>
+      <h4>Computer Languages</h4>
+      <ul>
+        <li>C&#43&#43</li>
+        <li>C&#35</li>
+      </ul>
+      <h4>Game Engines</h4>
+      <ul>
+        <li>Unity 3D</li>
+      </ul>
+      <h4>Graphic Tools</h4>
+      <ul>
+        <li>OpenGL</li>
+      </ul>
+    </div>
+  </div>
+  <button class="collapsible">Contact Information</button>
+  <div class="content">
+    <table style="width:100%">
+    <tr>
+      <th>Address</th>
+      <th>Cell Phone</th>
+      <th>Email</th>
+      <th>LinkedIn</th>
+    </tr>
+    <tr>
+      <td>32150 Jennifer Drive, Wildomar California 92595</td>
+      <td>(951) 710 &#45 0909</td>
+      <td>duc.mn.nguyen@gmail.com</td>
+      <td>https://goo.gl/eYjGLa</td>
+    </tr>
+  </div>
+</body>
+</html>
