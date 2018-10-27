@@ -47,3 +47,7 @@ table, th, td
 {
   background-color: #ccc;
 }
+#AA
+{
+  display: inline-block;
+}
